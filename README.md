@@ -1,7 +1,7 @@
 # Sistema de Empréstimo de Livros — Avaliação Final (Java)
 
-Este repositório contém a implementação completa do **Sistema de Empréstimo de Livros**, desenvolvido como trabalho final da disciplina.  
-O sistema foi construído em **Java**, baseado em interação via **console/terminal**, sem uso de bibliotecas externas além das permitidas.
+Este repositório contém a implementação completa do **Sistema de Empréstimo de Livros**, desenvolvido como trabalho final da disciplina EAD - Estrutura de Dados. 
+O sistema foi desenvolvido em **Java**, baseado em interação via **console/terminal**.
 
 --------------------------------------------------------------------
 
@@ -90,20 +90,6 @@ Funcionamento:
 Aplicado em:
 - Livros disponíveis
 - Livros emprestados
-
---------------------------------------------------------------------
-
-COMO EXECUTAR
-
-Compilar:
-
-    javac src/*.java -d bin
-
-Executar:
-
-    java -cp bin App
-
-Ou executar diretamente pelo VS Code usando "Run".
 
 --------------------------------------------------------------------
 
