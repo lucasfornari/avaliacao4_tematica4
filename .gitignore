@@ -26,7 +26,7 @@ replay_pid*
 # arqs. desnecessários para este projeto
 *.docx
 *.txt
-
+*.pdf
 /.vscode
 /bin
 /lib
